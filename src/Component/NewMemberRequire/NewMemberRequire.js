@@ -25,6 +25,7 @@ const NewMemberRequire = () => {
   };
 
   
+
   return (
     <div className="member-require">
       <UIProvider>
